@@ -2,7 +2,8 @@
    {
      el:"#root",
      data:{
-       title:"HELLO WORLD"
+       title:"HELLO WORLD",
+       image: "img/img.jpg"
      }
    }
  )
